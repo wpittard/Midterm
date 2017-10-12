@@ -1,0 +1,46 @@
+body {
+	background-color: skyblue;
+}
+div{
+	display: block;
+	
+}
+#words{
+	position: fixed;
+	top: 10%;
+	Left: 10%;
+	height: 20%;
+	width: 50%;
+	font-size: 75px;
+	color: white;
+}
+#sun{
+	position: fixed;
+	right: 20%;
+	height: 10%;
+	width: 7%;
+}
+#grass{
+	position: fixed;
+	bottom: 0%;
+	left: 0%;
+	height: 18%;
+	width: 100%;
+	background-color: green;
+}
+
+#dog{
+	position: fixed;
+	bottom: 20%;
+	left: 20%;
+	height: 18%;
+	width: 8%;
+}
+
+#tree{
+	position: fixed;
+	bottom: 19%;
+	right: 20%;
+	height: 42%;
+	width: 20%;
+}
